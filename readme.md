@@ -5,6 +5,10 @@
 
 * As dependências de bibliotecas estão descritas no arquivo pom.xml
 
-* Os testes unitários foram realizados e a cobertura ficou por volta de 95%;
+* Os testes unitários foram realizados e a cobertura ficou por volta de 95%, ver evidência abaixo
+![Cobertura de Testes](https://github.com/fabiosc/cnes/blob/master/src/main/resources/imagens/cobertura.PNG)
 
 * A UI Swagger está disponível em tempo de execução na URL http://localhost:8080/swagger-ui.html
+![UI Swagger](https://github.com/fabiosc/cnes/blob/master/src/main/resources/imagens/listarCnesUsingGET.PNG)
+![UI Swagger](https://github.com/fabiosc/cnes/blob/master/src/main/resources/imagens/listarCnesTipoEstabelecimentoGET.PNG)
+![UI Swagger](https://github.com/fabiosc/cnes/blob/master/src/main/resources/imagens/listarCnesPorEstadoUsingGet.PNG)
