@@ -1,6 +1,6 @@
 # CNES V-0.0.1-SNAPSHOT
 
-### Documentação de referências
+### Documentação de referência
 * A aplicação depende de um arquivo csv contendo os CNES ativos. O caminho do arquivo está descrito no application.properties da aplicação. Para efeito de simplicidade na subida da aplicação, o arquivo está disponibilizado dentro da própria aplicação;
 
 * As dependências de bibliotecas estão descritas no arquivo pom.xml
